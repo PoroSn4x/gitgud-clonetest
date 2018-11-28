@@ -36,3 +36,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - hello hello
 - Ur mom gay
 - No u
+- (No u)^2
